@@ -12,11 +12,25 @@ html
     script
       |  window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-105853005-3');
 
-    
+
   body
     = partial 'partials/shared/header-primary'
 
-    main.main-content
+    nav.nav
+      .nav-left
+        a.nav-item.subtitle.is-3 href="/"
+          strong Cookies
+          | \&nbsp;store
+      .nav-right.nav-menu.snipcart-summary
+        span.nav-item
+          a.button.is-white.snipcart-checkout href="#"
+            span.icon.is-small
+              i.fa.fa-shopping-cart aria-hidden="true"
+            span
+              | View cart (
+              span.snipcart-total-items> 0
+              | )
+
       = yield
     = partial 'partials/shared/footer'
 
