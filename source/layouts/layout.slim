@@ -16,21 +16,7 @@ html
   body
     = partial 'partials/shared/header-primary'
 
-    nav.nav
-      .nav-left
-        a.nav-item.subtitle.is-3 href="/"
-          strong Cookies
-          | \&nbsp;store
-      .nav-right.nav-menu.snipcart-summary
-        span.nav-item
-          a.button.is-white.snipcart-checkout href="#"
-            span.icon.is-small
-              i.fa.fa-shopping-cart aria-hidden="true"
-            span
-              | View cart (
-              span.snipcart-total-items> 0
-              | )
-
+    main.main-content
       = yield
     = partial 'partials/shared/footer'
 
