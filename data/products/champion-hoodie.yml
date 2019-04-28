@@ -4,3 +4,5 @@ image: /images/uploads/champion-hoodie.jpg
 price: '10'
 body: >-
     Adult Large blue champion hoodie
+# write code to have add to cart button run js code that adds that product into
+# array (use code from js lab)
