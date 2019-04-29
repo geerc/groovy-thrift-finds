@@ -1,29 +1,38 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2018-08-18T09:01+02:00
+title: How Does Thrift Shopping Help You Save the Environment?
+date: 2017-10-11T09:01+02:00
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-image: /images/uploads/news_item-03.jpg
+  Thrift shopping at second-hand stores, consignment shops, rummage sales and online used-good directories is not just for environmentalists and hipsters, but a viable solution for anyone looking to go eco-friendly in small ways.
+image: /images/uploads/article_image_2.jpg
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Author: Erich Lawson
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Thrift shopping at second-hand stores, consignment shops, rummage sales and online used-good directories is not just for environmentalists and hipsters, but a viable solution for anyone looking to go eco-friendly in small ways.
 
-## A little history
+Before going into the green benefits, here’s how thrifting helps you:
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Saving Money – Thrifted clothing is far more affordable than new clothes of comparable quality.
+Smarter Buys – You tend to spend more time looking over each item instead of buying it outright.
+Unique Finds – It’s highly unlikely that anyone else is walking around in the same clothes as you.
+Creative Potential – You might be inspired to try new combinations, or even some DIY reconstruction!
+If that wasn’t enough, here are 7 ways in which thrifting helps the environment:
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+1. It Lowers Your Carbon Footprint – A lot of energy goes into clothing manufacture, right from the transportation of raw materials to production processes. Then, there’s the energy required to get finished clothing to stores, and dispose of unwanted items. When you buy secondhand, you’re preventing wastage of energy and resources on the production of new clothes.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Photo credit:  Big Grey Mare  via  Visual Hunt  /   CC BY-NC-ND
+PHOTO CREDIT: BIG GREY MARE VIA VISUAL HUNT / CC BY-NC-ND
 
-## What you need to know before trying
+2. It Aids in Water Preservation – In addition to energy, water consumption is extremely high at every stage of clothing production. For instance, growing one kilogram of cotton requires 5,300 gallons of water, while wet processing and printing use 18 and 21.6 gallons respectively, per pound of cotton. Manufacturing, packaging and transportation processes add to this cost as well.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+3. It Reduces Chemical Pollution – The production of cotton is highly pesticide-intensive, causing soil acidification and water contamination. Textile manufacturing processes also involve the use of harmful dyes, caustic soda and crude oil by-products. These chemicals are generally dumped into areas around manufacturing units, contaminating surface and ground water through soil runoff.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+4. It Decreases Landfill Waste – Americans throw out anywhere from 60 to over 80 pounds of textile waste annually, and only about 10% of this makes it to thrift stores. If more people start shopping for secondhand clothes, less fabric ends up being dumped in landfills. That’s not all. Packaging material is also reduced, keeping plastic, paper and metal out of the waste stream.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+5. It Inspires Green Living – Thrifting is an essential part of green living, in more than one way. When you buy used items, you keep them from being sent to a landfill and reduce manufacturing demand as well. Also, by donating unwanted clothes to consignment shops or thrift stores, you may be encouraging others simply by giving them something they can use.
 
+6. It Boosts Community Development – While shopping secondhand, your money is used to help local charities and businesses instead of multinational corporations. Thrift stores provide employment in retail outlets as well as donation centers, creating more jobs and boosting the local economy. Many hire disabled workers and donate proceeds to community programming projects as well.
+
+7. It Encourages Recycling – Did you know that recycled cotton clothing uses less than 3% of the energy that would have gone into producing new clothes? When you reuse or recycle clothes, you’re decreasing the demand for production and encouraging sustainable practices. It may not seem like much, but every item that doesn’t end up in a landfill counts as a win!
+
+Erich Lawson is passionate about saving environment by effective recycling. He has written a wide array of articles on how modern recycling equipments can be used by industries to reduce monthly garbage bills and increase recycling revenue. You can learn more about environment savings techniques by visiting Northern California Compactors, Inc blog.
