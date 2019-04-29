@@ -3,7 +3,7 @@ title: Why thrift? The environmental, social, and personal impact of second-hand
 date: 2013-06-19T12:01+02:00
 description: >-
   I began thrift-store shopping about the same time I began buying my own clothes. The inexpensive, one-of-a-kind gems I discovered by scrounging through piles of dusty garments made the whole endeavor seem more like a real treasure hunt than any of the simulations computer games offered. I’ve been hooked ever since.
-image: /images/uploads/news_item-01.jpg
+image: /images/uploads/article_image_1.jpg
 ---
 
 I began thrift-store shopping about the same time I began buying my own clothes. The inexpensive, one-of-a-kind gems I discovered by scrounging through piles of dusty garments made the whole endeavor seem more like a real treasure hunt than any of the simulations computer games offered. I’ve been hooked ever since.
